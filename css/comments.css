@@ -1,0 +1,30 @@
+body {
+	font-family: montserrat;	
+}
+
+.comment {
+	
+}
+
+.comment img	{
+	height: 50px;
+}
+
+.comment h4 span {
+	color: grey;
+	font-weight: lighter;
+}
+
+.comment button {
+	background-color:magenta;
+	color: white;
+	border: none;
+}
+
+.comment button:hover {
+	background-color: salmon;
+	color: white;
+	border: none;
+
+
+}
